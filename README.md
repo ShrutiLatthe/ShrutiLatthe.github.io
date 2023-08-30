@@ -1,2 +1,2 @@
-# ShrutiLatthe.github.io
+# shrutilatthe.dev
 Shruti's Website 
